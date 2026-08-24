@@ -1,1 +1,1 @@
-# final-project-emb-ai
+# Final project
